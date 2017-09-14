@@ -16,3 +16,4 @@ You will need to set "TrainingSet.WORKING_PATH" to your application path.
 <br>
 # Finally 
 I test it with the SpeakerIdentApp in android 2.3.6 and android 6.0 and it work fine. 
+<br>If you need help contact me at: souhaib0study@gmail.com
