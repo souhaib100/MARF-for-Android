@@ -14,6 +14,10 @@ I have no experiences with MARF, so I can't garenteed that it's work as perfect 
 # Important note:
 You will need to set "TrainingSet.WORKING_PATH" to your application path.
 <br>
+# Example
+I made a simple application that train 2 persons:<br>
+https://github.com/souhaib100/marfspeakeridentapp
+<br>
 # Finally 
 I test it with the SpeakerIdentApp in android 2.3.6 and android 6.0 and it work fine. 
 <br>If you need help contact me at: souhaib0study@gmail.com
